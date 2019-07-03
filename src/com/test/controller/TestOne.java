@@ -23,6 +23,8 @@ public class TestOne {
 
         int b = 4;
 
+        
+        int c = 6;
 
   //      FileInputStream file = new FileInputStream("fdf");
 
