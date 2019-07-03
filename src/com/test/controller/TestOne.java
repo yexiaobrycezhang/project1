@@ -21,6 +21,9 @@ public class TestOne {
         int a = 1;
 
 
+        int b = 4;
+
+
   //      FileInputStream file = new FileInputStream("fdf");
 
 //       string
